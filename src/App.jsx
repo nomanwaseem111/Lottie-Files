@@ -31,7 +31,7 @@ const App = () => {
    <div className='parent'>
     <div>
       <div className='child'>
-      <h1 >Hi all, I'm Noman </h1>
+      <h2 >Hi all, I'm Noman </h2>
       <Lottie options={newOptions} height={150} width={120} style={{width:"120px",paddingRight:"350px"}}/>
       </div>
       <h2>A passionate Full Stack Software Developer 🚀 having an experience </h2>
